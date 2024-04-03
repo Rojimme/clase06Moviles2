@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917070625641",
+    "project_id": "melaniereact-f67eb",
+    "storage_bucket": "melaniereact-f67eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917070625641:android:7fbbdaab752ed211b01bf8",
+        "android_client_info": {
+          "package_name": "com.class_06"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTdIHTnBM_sACeWgQIiX5WeVlh-JB41GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
